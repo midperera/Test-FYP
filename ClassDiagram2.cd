@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EyeOpen.SimilarImagesFinder.Windows.Graph" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAQACAAEAAAAASAAIACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeOpen.SimilarImagesFinder.Windows.PlotCurve">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAQAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Forms\PlotCurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeOpen.SimilarImagesFinder.Windows.Program" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAgABAAAAAQ=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EyeOpen.SimilarImagesFinder.Windows.Forms.MainForm">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="EyeOpen.SimilarImagesFinder.Windows.Forms.MainForm.ProcessImagesDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="EyeOpen.SimilarImagesFinder.Windows.Forms.MainForm.SetMaximumDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="EyeOpen.SimilarImagesFinder.Windows.Forms.MainForm.UpdateOperationStatusDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="EyeOpen.SimilarImagesFinder.Windows.Forms.MainForm.UpdateDataGridViewDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="EyeOpen.SimilarImagesFinder.Windows.Forms.MainForm.DeleteImageDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="EyeOpen.SimilarImagesFinder.Windows.Forms.MainForm.ShowGridDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Forms\MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BBK0REAAQCcCAEAMAACIgFUCQKoQEAiAAmARASEQAhA=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EyeOpen.SimilarImagesFinder.Windows.Forms.IErrorSubscriber" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Forms\IErrorSubscriber.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
